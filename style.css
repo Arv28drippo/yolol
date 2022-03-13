@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+}
+
+#score{
+    float: left;
+    margin-left: 25px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#timer{
+    float: right;
+    margin-right: 25px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#sketch_needed{
+    color: red;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+#your_sketch{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#confidence{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#show_sketch{
+    float: right;
+}
+
+h1{
+    background-color: bisque;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    size: 15000000px;
+}
